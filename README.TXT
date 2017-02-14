@@ -4,3 +4,4 @@ VERSION or DATE: February 2017
 HOW TO START THIS PROJECT: Run Main in the Driver program.
 AUTHORS: Connor Teal — Skeleton provided by Rob Nash
 USER INSTRUCTIONS:
+You can run individual tests by commenting out the individual methods in main of the driver method.
